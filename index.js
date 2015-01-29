@@ -1,5 +1,6 @@
 'use strict';
 
+// push to codeship.io
 var Hapi = require('hapi');
 var Good = require('good');
 var server = new Hapi.Server();
